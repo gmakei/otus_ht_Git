@@ -2,3 +2,6 @@
 Otus. Git hometask.
 
 Test repo for learning Git.
+
+## Remote changes
+Remote content.
