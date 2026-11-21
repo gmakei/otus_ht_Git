@@ -5,3 +5,6 @@ Test repo for learning Git.
 
 ## Remote changes
 Remote content.
+
+Some addition text.
+
